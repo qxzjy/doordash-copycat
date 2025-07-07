@@ -10,7 +10,6 @@ Made with ❤️ by Jedha
 """
 
 app = FastAPI(
-
     title="🍔 DoorDash Delivery API",
     description=description,
     version="0.1",
